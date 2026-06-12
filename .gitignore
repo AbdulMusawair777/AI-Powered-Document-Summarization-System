@@ -1,0 +1,58 @@
+# Virtual Environments
+
+venv/
+.venv/
+env/
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+
+build/
+dist/
+*.egg-info/
+
+# IDE Files
+
+.vscode/
+.idea/
+
+# Streamlit
+
+.streamlit/
+
+# NLTK Data
+
+nltk_data/
+
+# Environment Variables
+
+.env
+
+# Logs
+
+*.log
+
+# Output Files
+
+output/
+*.pdf
+*.txt
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+
+.ipynb_checkpoints/
+
+# Temporary Files
+
+temp/
+tmp/
